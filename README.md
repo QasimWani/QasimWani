@@ -1,6 +1,6 @@
 ### Hi there, I'm [Qasim!](https://www.linkedin.com/in/qasimwani) 👋
 
-<p>Computer Engineering Junior at Virginia Tech with specializations in Machine Learning and Software Systems.</p>
+<p>Machine Learning & Embedded Systems Engineer/Student</p>
 <p>Previously: <a href='https://hitchhiqe.herokuapp.com/'>HitchHiqe</a> (YC SC-2019), <a href="http://preventiv.ml">Preventiv</a> (recursive contact-tracing)</p>
 <br>
 
