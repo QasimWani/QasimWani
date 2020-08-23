@@ -1,5 +1,8 @@
 ### Hi there, I'm [Qasim!](https://www.linkedin.com/in/qasimwani) 👋
 
+<p>Computer Engineering Junior at Virginia Tech with specializations in Machine Learning and Software Systems.</p>
+<p>Previously: <a href='https://hitchhiqe.herokuapp.com/'>HitchHiqe</a> (YC SC-2019), <a href="http://preventiv.ml">Preventiv</a> (recursive contact-tracing)</p>
+<br>
 
 - 🔭 I’m currently working on Reinforcement Learning algorithms in the Unity environment [RL-Unity](https://github.com/QasimWani/RL-Unity)
 - 🌱 I’m currently learning Julia (Programming Language) & Multi-task Learning (Deep Learning + Reinforcement Learning)
