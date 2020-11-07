@@ -1,11 +1,11 @@
-### Hi there, I'm [Qasim!](https://www.linkedin.com/in/qasimwani) 👋
+### Hi there, I'm [Qasim](https://www.linkedin.com/in/qasimwani)! 👋
 
-<p>Machine Learning & Embedded Systems Engineer (Virginia Tech '22)</p>
+<p>Machine Learning & Full-Stack Developer Engineer (Virginia Tech '22)</p>
 <p>Previously: <a href='https://hitchhiqe.herokuapp.com/'>HitchHiqe</a> (YC SC-2019), <a href="http://preventiv.ml">Preventiv</a> (recursive contact-tracing)</p>
 <br>
 
-- 🔭 I’m currently working on Reinforcement Learning algorithms in the Unity environment [RL-Unity](https://github.com/QasimWani/RL-Unity)
-- 🌱 I’m currently learning Julia (Programming Language) & Multi-task Learning (Deep Learning + Reinforcement Learning)
+- 🔭 I’m currently building XAI (explainable AI) models using Actor Critic networks [Ensemble-Automator](https://github.com/Ensemble-Automator/conformal-prediction).
+- 🌱 I’m currently researching in Off-Policy-Evaluation for Reinforcement Learning under Dr. Ming Jin (UC Berkeley).
 - 👯 I’m looking to collaborate on [Vote the Internet](https://github.com/RoundPegs9/vote-the-internet-chrome-extension), a chrome extension to crowdsource trust.
 - 🤔 I’m interested in Brain Computer Interface technologies. I've previously [developed BCI](https://github.com/QasimWani/Brain-Computer-Interface) that can detect what music you're listening to based on your neural activity in Real-Time.
 
