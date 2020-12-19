@@ -1,6 +1,6 @@
 ### Hi there, I'm [Qasim](https://www.linkedin.com/in/qasimwani)! 👋
 
-<p>Machine Learning & Full-Stack Developer Engineer (Virginia Tech '22)</p>
+<p>Incoming Machine Learning Intern at Qualcomm <br>Virginia Tech ECE '22</p>
 <p>Previously: <a href='https://hitchhiqe.herokuapp.com/'>HitchHiqe</a> (YC SC-2019), <a href="http://preventiv.ml">Preventiv</a> (recursive contact-tracing)</p>
 <br>
 
