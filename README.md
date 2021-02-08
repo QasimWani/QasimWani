@@ -4,8 +4,7 @@
 <p>Previously: <a href='https://hitchhiqe.herokuapp.com/'>HitchHiqe</a> (YC SC-2019), <a href="http://preventiv.ml">Preventiv</a> (recursive contact-tracing)</p>
 <br>
 
-- 🔭 I’m currently building [Ensemble-Automator](https://github.com/Ensemble-Automator), an XAI (explainable AI) framework for ML models using Actor Critic networks.
-- 🌱 I’m currently researching on Off-Policy Policy Evaluation for Reinforcement Learning under Dr. Ming Jin.
+- 🌱 Research Interests: Reinforcement Learning, Meta-Learning, Federated Learning, and XAI.
 - 👯 I’m looking to collaborate on [Vote the Internet](https://github.com/RoundPegs9/vote-the-internet-chrome-extension), a chrome extension to crowdsource trust on the internet.
 - 🤔 I’m interested in Brain Computer Interface technologies. I've previously [developed BCI](https://github.com/QasimWani/Brain-Computer-Interface) that can detect what music you're listening to based on your neural activity in Real-Time.
 
