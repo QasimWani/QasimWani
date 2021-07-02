@@ -1,10 +1,10 @@
-### Hi there, I'm [Qasim](https://www.linkedin.com/in/qasimwani)! 👋
+### Hey there, I'm [Qasim](https://www.linkedin.com/in/qasimwani)! 👋
 
 <p>Virginia Tech ECE '22</p>
-<p>Previously: <a href='https://hitchhiqe.herokuapp.com/'>HitchHiqe</a> (YC SC-2019), <a href="http://preventiv.ml">Preventiv</a> (recursive contact-tracing)</p>
+<p>Previously: <a href='https://hitchhiqe.herokuapp.com/'>HitchHiqe</a> (YC SC-'19), <a href="http://preventiv.ml">Preventiv</a> (recursive contact-tracing)</p>
 <br>
 
-- 🌱 Research Interests: Reinforcement Learning, Meta-Learning, Federated Learning, and XAI.
+- 🌱 Research Interests: Graph Theory & Deep Learning - Structure Learning and Neuro Symbolic AI.
 - 👯 I’m looking to collaborate on [Vote the Internet](https://github.com/RoundPegs9/vote-the-internet-chrome-extension), a chrome extension to crowdsource trust on the internet.
 - 🤔 I’m interested in Brain Computer Interface technologies. I've previously [developed BCI](https://github.com/QasimWani/Brain-Computer-Interface) that can detect what music you're listening to based on your neural activity in Real-Time.
 
