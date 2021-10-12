@@ -1,7 +1,9 @@
 ### Hey there, I'm [Qasim](https://www.linkedin.com/in/qasimwani)! 👋
 
 <p>Virginia Tech ECE '22</p>
-<p>Previously: <a href='https://hitchhiqe.herokuapp.com/'>HitchHiqe</a> (YC SC-'19), <a href="http://preventiv.ml">Preventiv</a> (recursive contact-tracing)</p>
+
+_Previously_: ML [Qualcomm](https://www.qualcomm.com/research/artificial-intelligence); Founder [HitchHiqe](https://hitchhiqe.herokuapp.com/) (YC SC-'19), Co-Founder [Preventiv](http://preventiv.ml) (recursive contact-tracing).
+
 <br>
 
 - 🌱 Research Interests: Graph Theory & Deep Learning - Distributions Shifts and Structure Learning.
