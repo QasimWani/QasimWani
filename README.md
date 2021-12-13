@@ -1,4 +1,4 @@
-### Hey there, I'm [Qasim](https://www.linkedin.com/in/qasimwani)! 👋
+### Hey there, I'm [Qasim](https://qasimwani.github.io)! 👋
 
 <p>Virginia Tech ECE '22</p>
 
