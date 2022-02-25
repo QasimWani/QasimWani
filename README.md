@@ -1,4 +1,7 @@
 ### Hey there, I'm [Qasim](https://qasimwani.github.io)! 👋
+![](https://komarev.com/ghpvc/?username=QasimWani)
+
+<br>
 
 <p>Virginia Tech ECE '22</p>
 
@@ -23,3 +26,4 @@ _Previously_: ML [Qualcomm](https://www.qualcomm.com/research/artificial-intelli
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=QasimWani&show_icons=true&theme=radical&count_private=truel" alt="Qasim's github stats" />
 </a>
 -->
+
