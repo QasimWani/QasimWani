@@ -1,8 +1,4 @@
 ### Hey there, I'm [Qasim](https://qasimwani.github.io)! 👋
-![](https://komarev.com/ghpvc/?username=QasimWani)
-
-<br>
-
 <p>Virginia Tech ECE '22</p>
 
 _Previously_: ML [Qualcomm](https://www.qualcomm.com/research/artificial-intelligence); Founder [HitchHiqe](https://hitchhiqe.herokuapp.com/) (YC SC-'19), Co-Founder [Preventiv](http://preventiv.ml) (recursive contact-tracing).
@@ -27,3 +23,4 @@ _Previously_: ML [Qualcomm](https://www.qualcomm.com/research/artificial-intelli
 </a>
 -->
 
+![](https://hit.yhype.me/github/profile?user_id=43754306)
