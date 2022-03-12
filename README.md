@@ -6,7 +6,7 @@ _Previously_: ML [Qualcomm](https://www.qualcomm.com/research/artificial-intelli
 <br>
 
 - 🌱 Research Interests: Graph Theory & Deep Learning - Distributions Shifts, Optimization, & Structure Learning.
-- 👯 Checkout [LeetHub](https://github.com/QasimWani/LeetHub), top trending repository to automatically save your Leetcode submissions to GitHub. **7k users**; used **2.5M+** times.
+- 👯 Checkout [LeetHub](https://github.com/QasimWani/LeetHub), top trending JS repository to automatically save your Leetcode submissions to GitHub.
 - 🤔 I’m interested in Brain Computer Interface technologies. I've previously [developed BCI](https://github.com/QasimWani/Brain-Computer-Interface) that can detect what music you're listening to based on your neural activity in Real-Time.
 
 **Languages and Tools:**  
