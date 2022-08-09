@@ -1,9 +1,6 @@
 ### Hey there, I'm [Qasim](https://qasimwani.github.io)! 👋
 <p>Virginia Tech ECE '22</p>
 
-_Previously_: ML [Qualcomm](https://www.qualcomm.com/research/artificial-intelligence); Founder [HitchHiqe](https://hitchhiqe.herokuapp.com/) (YC SC-'19), Co-Founder [Preventiv](http://preventiv.ml) (recursive contact-tracing).
-
-<br>
 
 - 🌱 Research Interests: Graph Theory & Deep Learning - Distributions Shifts, Optimization, & Structure Learning.
 - 👯 Checkout [LeetHub](https://github.com/QasimWani/LeetHub), top trending JS repository to automatically save your Leetcode submissions to GitHub.
