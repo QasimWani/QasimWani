@@ -1,10 +1,10 @@
 ### Hey there, I'm [Qasim](https://qasimwani.github.io)! 👋
-<p>Virginia Tech ECE '22</p>
+ML @ [PathAI](https://www.pathai.com/). Virginia Tech ECE '22
 
 
-- 🌱 Research Interests: Graph Theory & Deep Learning - Distributions Shifts, Optimization, & Structure Learning.
+- 🌱 Research Interests: OOD Generalization, Structure Learning, GNNs.
 - 👯 Checkout [LeetHub](https://github.com/QasimWani/LeetHub), top trending JS repository to automatically save your Leetcode submissions to GitHub.
-- 🤔 I’m interested in Brain Computer Interface technologies. I've previously [developed BCI](https://github.com/QasimWani/Brain-Computer-Interface) that can detect what music you're listening to based on your neural activity in Real-Time.
+- 🤔 Build technologies that increase the cumulative density of magic in the world!
 
 **Languages and Tools:**  
 
