@@ -3,7 +3,7 @@ ML @ [PathAI](https://www.pathai.com/). Virginia Tech ECE '22
 
 
 - 🌱 Research Interests: OOD Generalization, Structure Learning, GNNs.
-- 👯 Checkout [GCT](https://gctpy.com), fastest way to visualize any Python code with one click of a button!
+- 👯 Checkout [Graphical Code Tracer](https://gctpy.com), fastest way to visualize any Python code with one click of a button!
 - 🤔 Build technologies that increase the cumulative density of magic in the world!
 
 **Languages and Tools:**  
