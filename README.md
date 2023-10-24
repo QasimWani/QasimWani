@@ -1,5 +1,5 @@
 ### Hey there, I'm [Qasim](https://qasimwani.github.io)! 👋
-ML @ [PathAI](https://www.pathai.com/). Virginia Tech ECE '22
+Solving the hardest problem in all of AI – data collection. Checkout [Advex](https://advex.ai)
 
 
 - 🌱 Research Interests: OOD Generalization, Structure Learning, GNNs.
