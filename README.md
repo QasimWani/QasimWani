@@ -1,4 +1,4 @@
-### Hey there, I'm [Qasim](https://qasimwani.github.io)! 👋
+### Hey there, I'm [Qasim](https://x.com/qasim31wani)! 👋
 Everything outside of AI is going to be a footnote in human history.
 
 
